@@ -1,7 +1,7 @@
 {
-      "name": "SpamX - RiZoeL",
+      "name": "🇻ιρ 🇩𝚒𝚝𝚝𝚘 🇺𝚜𝚎𝚛𝚋𝚘𝚝",
       "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "logo": "https://te.legra.ph/file/469fb71dee02e7af0fabc.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,9 +9,7 @@
         "SpamX",
         "RiZoeLX"
       ],   
-  "repository": "https://github.com/RiZoeLX/SpamX",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/PATAALhu/OPuserbot",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
