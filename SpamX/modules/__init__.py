@@ -26,13 +26,13 @@ class Alive:
 
 ━───────╯•╰───────━
 ➠ **σωиεя:** {owner_mention}
-➠ ** Version:** `{platform.python_version()}`
-➠ **userbot ⩔єяនɨ០ɳ:** `{__version__}`
-➠ **Pyrogram  ⩔єяនɨ០ɳ:** `{pyro_vr}`
-➠ **Ditto ⩔єяនɨ០ɳ:** `{pip_vr}`
-➠ **Channel:** @DPZ_BY_CDX
+➠ ** ⩔єяនɨ០ɳ:** `{platform.python_version()}`
+➠ **◈ 𝗨នєя𝗕០Ƭ ⩔єяនɨ០ɳ:** `{__version__}`
+➠ **Ƥʏяσɢяαм ⩔єяនɨ០ɳ:** `{pyro_vr}`
+➠ **Ɖιттσ ⩔єяនɨ០ɳ:** `{pip_vr}`
+➠ **Ɔнαииɛℓ:** @DPZ_BY_DITTO
 ━───────╮•╭───────━
-➠ **Source Code:** [𝗢𝗪𝗡𝗘𝗥](https://t.me/Ditto_999)
+➠ **Source Code:** [𝗠𝗬😘𝗙𝗔𝗧𝗛𝗘𝗥](https://t.me/Ditto_999)
      """
 
 handler = HNDLR
