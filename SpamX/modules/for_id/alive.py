@@ -107,7 +107,7 @@ async def SpamX_(SpamX: Client, message: Message):
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
     spamx_reply += "**Source Code:** [OWNER](https://t.me/PATAAL_NAGRI) \n\n"
-    spamx_reply += "**© @Ditto_999** || Support: @PATAAL_NAGRI"
+    spamx_reply += "**© @ditto_000** || Support: @PATAAL_LOK_OP"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
